@@ -1,5 +1,5 @@
 <?php
 
-echo 'Hello world';
+echo 'Hello test';
 
-echo 'Test';
+require_once 'main.php';
